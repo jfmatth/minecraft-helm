@@ -5,7 +5,7 @@ Using the HELM chart for Minecraft, this is a values file that I use for flexibi
 - Extend the start up time for the healthcheck
 - Change the memory
 - Add my son as the operator (Admin) of the server
-- Set the version
+- Set the version using this site https://minecraft.gamepedia.com/Java_Edition_version_history
 
 
 ## Using this repo
